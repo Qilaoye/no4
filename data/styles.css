@@ -16,6 +16,9 @@
 }
 .button {
 }
+.primary_button {
+  color:#FFFFFF;
+}
 ._一级标题 {
   font-family:"Arial Normal", "Arial", sans-serif;
   font-weight:bold;
@@ -73,6 +76,8 @@
 }
 .radio_button {
   text-align:left;
+}
+.table_cell {
 }
 .form_hint {
   color:#999999;
