@@ -67,6 +67,8 @@
 ._段落 {
   text-align:left;
 }
+.line {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -88,5 +90,9 @@
 .form_disabled {
 }
 ._流程图形状 {
+}
+.ellipse {
+}
+.icon {
 }
 textarea, select, input, button { outline: none; }
